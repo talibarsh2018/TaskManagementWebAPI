@@ -38,9 +38,7 @@ This repository contains the backend API for the Task Management Application.
   - LastUpdatedBy
 - ER Diagram reference: 
 +----------------------------------+
-|              
-Tasks                   
-|
+|            Tasks                 |
 +----------------------------------+
 | Id (PK)                                   
 | TaskTitle                               
@@ -52,16 +50,6 @@ Tasks
 | LastUpdatedOn                     
 | CreatedBy                             
 | LastUpdatedBy                   
-|
- |
-|
-|
-|
-|
-|
- |
- |
- |
 +----------------------------------
 
 ## 5. Installation & Running the API
