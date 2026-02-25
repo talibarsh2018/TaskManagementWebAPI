@@ -36,10 +36,12 @@ This repository contains the backend API for the Task Management Application.
   - LastUpdatedOn
   - CreatedBy
   - LastUpdatedBy
-- ER Diagram reference: 
+- ER Diagram reference:
+- 
 +----------------------------------+
 |            Tasks                 |
 +----------------------------------+
+  
 | Id (PK)                                   
 | TaskTitle                               
 | TaskDescription                     
