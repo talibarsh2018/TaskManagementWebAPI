@@ -14,8 +14,7 @@ This repository contains the backend API for the Task Management Application.
 - Search tasks by title,description,createdby
 
 ## 3. Backend Structure
-- ASP.NET Core Web API
-- MVC Pattern
+- .NET Core Web API
 - Folders:
   - Controllers
   - Models
@@ -54,4 +53,13 @@ This repository contains the backend API for the Task Management Application.
 | LastUpdatedBy                   
 +----------------------------------
 
-## 5. Installation & Running the API
+## 5. Running the API
+# By Visual Studio
+- Open Project in Visual Studio
+- Restore nuget packages
+- Build
+- Run
+## CMD
+- dotnet restore
+- dotnet build
+- dotnet run
